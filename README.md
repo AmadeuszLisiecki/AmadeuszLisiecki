@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Amadeusz](https://sakigo9.github.io/AmadeuszLisiecki/)
+### Hello World 👋 It's Amadeusz
 
 <br/>
 
@@ -20,6 +20,7 @@ Hi, I am Amadeusz Lisiecki, a front-end developer. I love getting involved in pr
 - 💬 Ask me about anything. Would love to answer them.✌
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amadeusz-lisiecki-9ab0732b4/).
 - 📝[Portfolio](https://github.com/AmadeuszLisiecki?tab=repositories).
+- 📄 [My WordPress showcase](https://784620784.9p9.eu/wordpress/).
 
 **Languages and Tools:**
 

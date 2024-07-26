@@ -1,17 +1,17 @@
-### Hello World! 👋 It's Amadeusz!
+### Hello World! 👋 It is Amadeusz Lisiecki!
 
 <br/>
 
-Hi, I am Amadeusz Lisiecki, a front-end developer. I love getting involved in programming and problem-solving.
+I am a front-end developer. I love getting involved in programming and problem-solving.
 
 ![Front-end](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBrdWY3b3VoZGlyOXdwYjVrcmdzeWF2azlldDY5cWhpbHRxanhtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.webp)
 
-**Talking about Personal Stuff:**
+**Talking about personal stuff:**
 
-- 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning PHP.
-- 💬 Ask me about anything. Would love to answer them - amadeusz.lisiecki@onet.pl.✌
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amadeusz-lisiecki-9ab0732b4/).
+- 🔭 I am currently looking for work.
+- 🌱 I am currently learning PHP and Vue.
+- 💬 Ask me about anything. I would love to answer them - amadeusz.lisiecki@onet.pl.✌
+- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/amadeusz-lisiecki-9ab0732b4/).
 - 📝[Portfolio](https://github.com/AmadeuszLisiecki?tab=repositories).
 - 📄 [My WordPress showcase](https://784620784.9p9.eu/wordpress/).
 

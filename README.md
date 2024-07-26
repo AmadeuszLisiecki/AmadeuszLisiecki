@@ -4,6 +4,7 @@
 
 Hi, I am Amadeusz Lisiecki, a front-end developer. I love getting involved in programming and problem-solving.
 
+![Front-end](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBrdWY3b3VoZGlyOXdwYjVrcmdzeWF2azlldDY5cWhpbHRxanhtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.webp)
 
 **Talking about Personal Stuff:**
 

@@ -12,7 +12,6 @@ I am a front-end developer. I love getting involved in programming and problem-s
 - 💬 Ask me about anything. I would love to answer them - amadeusz.lisiecki@onet.pl.✌
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/amadeusz-lisiecki-9ab0732b4/).
 - 📝[Portfolio](https://github.com/AmadeuszLisiecki?tab=repositories).
-- 📄 [My WordPress showcase](https://784620784.9p9.eu/wordpress/).
 
 **Languages and Tools:**
 

@@ -9,7 +9,6 @@ I am a front-end developer. I love getting involved in programming and problem-s
 **Talking about personal stuff:**
 
 - 🔭 I am currently looking for work.
-- 🌱 I am currently learning PHP and Vue.
 - 💬 Ask me about anything. I would love to answer them - amadeusz.lisiecki@onet.pl.✌
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/amadeusz-lisiecki-9ab0732b4/).
 - 📝[Portfolio](https://github.com/AmadeuszLisiecki?tab=repositories).
@@ -24,5 +23,3 @@ I am a front-end developer. I love getting involved in programming and problem-s
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amadeuszlisiecki&size_weight=0.5&count_weight=0.5)
